@@ -41,4 +41,4 @@
 <a href="https://yarnpkg.com/zh-Hans/docs/yarn-workflow" target="_blank">Yarn 工作流</a>
 
 ### CLI 介绍
-<a href="https://yarnpkg.com/zh-Hans/docs/cli/" target="_blank">CLI 介绍</a>
+<a href="https://yarnpkg.com/zh-Hans/docs/cli/" target="_self">CLI 介绍</a>
